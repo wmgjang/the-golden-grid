@@ -1,0 +1,21 @@
+== Mini Tutorial ==
+
+The Golden Grid is CSS based grid system.
+
+There are two CSS system called golden-base(golden.css) and golden-extend(reset.css,  golden.css , typography.css)
+
+Golden Base = min css reset + grid system
+
+Golden Extend = complete css reset + grid system + typography
+
+There are *three* things to know about CSS system:
+
+ # g160 means you have 150px columns and 10px left margin.
+ # ml240 margin left 250px.If we have ml240 g160 = (margin left 240px + margin left 10px + 150px column) = (margin left 250px + 150px column). This is just little naming trick.
+ # If you need nested div you can use class .inside in the first nested div
+
+Look at this example
+
+This is it!
+
+P.S Use .clear or .clearfix for clearing
