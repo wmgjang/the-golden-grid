@@ -1,18 +1,17 @@
 
+=== Credits & Useful links ===
 
-== Credits & Useful links ==
-
-Thanks to my brother Viktor for the logo to my friend Branko for useful tips my colleges Mirko and Michele for moral support :)
-
+Thanks to my brother *Viktor* for the logo to my friend *Branko* for useful tips my colleges *Mirko* and *Michele* for moral support :)
 
 
 
-== The pioneers of css grid & framework design==
+
+=== The pioneers of css grid & framework design ===
 
  * [http://www.markboulton.co.uk/ Mark Boulton]
  * [http://subtraction.com/ Khoi Vinh]
  * [http://jeffcroft.com/ Jeff Croft]
  * [http://meyerweb.com/eric/ Eric Meyer] Thank you for your reset.css
 
-== Also ==
+=== Also ===
  * [http://www.thegridsystem.org/ Cool site about Grid Design]
